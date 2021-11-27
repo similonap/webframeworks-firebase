@@ -1,0 +1,38 @@
+[
+    {
+        "name": "bulbasaur",
+        "description": "A strange seed was planted on its back at birth.\fThe plant sprouts and grows with this POKeMON."
+    },
+    {
+        "name": "ivysaur",
+        "description": "When the bulb on its back grows large, it appears\fto lose the ability to stand on its hind legs."
+    },
+    {
+        "name": "venusaur",
+        "description": "The plant blooms when it is absorbing solar\fenergy. It stays on the move to seek sunlight."
+    },
+    {
+        "name": "charmander",
+        "description": "Obviously prefers hot places. When it rains, steam\fis said to spout from the tip of its tail."
+    },
+    {
+        "name": "charmeleon",
+        "description": "When it swings its burning tail, it elevates the\ftemperature to unbearably high levels."
+    },
+    {
+        "name": "charizard",
+        "description": "Spits fire that is hot enough to melt boulders.\fKnown to cause forest fires unintentionally."
+    },
+    {
+        "name": "squirtle",
+        "description": "Shoots water at prey while in the water.\fWithdraws into its shell when in danger."
+    },
+    {
+        "name": "wartortle",
+        "description": "When tapped, this POKeMON will pull in its head, but\fits tail will still stick out a little bit."
+    },
+    {
+        "name": "blastoise",
+        "description": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires."
+    }
+]
